@@ -1,10 +1,13 @@
 ![Banner](https://github.com/sol-rust-dev/sol-rust-dev/blob/main/banner.png?raw=true)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 # 🚀 Senior Solana Blockchain Professional Developer | All Ecosystem Master
 
 ## Hi there! 
 👋 I am a **Senior Solana Professional Developer** with over four years of specialized experience designing, developing, and deploying secure, scalable, and high-performance applications on the Solana network. 
+
 My expertise spans end-to-end delivery of trading analytics platforms, high-frequency automated trading bots, NFT marketplaces, and full-cycle tokenomics launches, ensuring optimal performance, robust security, and long-term scalability, Solana ecosystem, building high-performance, secure, and scalable blockchain solutions…
 
 ---
