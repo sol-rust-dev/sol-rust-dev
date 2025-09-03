@@ -1,4 +1,5 @@
-![Banner](https://github.com/sol-rust-dev/sol-rust/blob/main/banner.png?raw=true)
+![Banner](https://github.com/sol-rust-dev/sol-rust-dev/blob/main/banner.png?raw=true)
+
 
 # 🚀 Senior Solana Blockchain Professional Developer | All Ecosystem Master
 
