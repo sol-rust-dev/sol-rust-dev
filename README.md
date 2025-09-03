@@ -5,8 +5,8 @@
 
 ## Hi there! 
 👋 I am a **Senior Solana Professional Developer** with over four years of specialized experience designing, developing, and deploying secure, scalable, and high-performance applications on the Solana network. 
+My expertise spans end-to-end delivery of trading analytics platforms, high-frequency automated trading bots, NFT marketplaces, and full-cycle tokenomics launches, ensuring optimal performance, robust security, and long-term scalability, Solana ecosystem, building high-performance, secure, and scalable blockchain solutions…
 
-**My expertise** spans end-to-end delivery of trading analytics platforms, high-frequency automated trading bots, NFT marketplaces, and full-cycle tokenomics launches, ensuring optimal performance, robust security, and long-term scalability, Solana ecosystem, building high-performance, secure, and scalable blockchain solutions…
 ---
 
 ## 🤖 Automated Trading Bots
